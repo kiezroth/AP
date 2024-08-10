@@ -19,7 +19,7 @@ function Process()
                 end
         end
 end
-wait(20)
+wait(10)
 for i = 1, 5 do
     Process()
     wait(5)
