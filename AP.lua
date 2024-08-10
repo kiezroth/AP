@@ -20,7 +20,7 @@ function Process()
         end
 end
 wait(10)
-for i = 1, 5 do
+for i = 1, 7 do
     Process()
     wait(5)
 end
